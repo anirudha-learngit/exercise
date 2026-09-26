@@ -65,6 +65,12 @@ Let's make some changes to the game then use the CLI to show the differences.
 
    <img width="500px" src="https://github.com/user-attachments/assets/f41d6917-1651-4549-bb7b-5441a1832e38"/>
 
+   Depending on your terminal size, you can navigate the diff with:
+
+   - <kbd>↓</kbd> to scroll down
+   - <kbd>↑</kbd> to scroll up
+   - <kbd>Q</kbd> to exit out
+
 1. Promote the changes into the staging area.
 
    ```bash
