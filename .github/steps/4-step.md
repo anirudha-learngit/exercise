@@ -67,9 +67,9 @@ Let's make some changes to the game then use the CLI to show the differences.
 
    Depending on your terminal size, you can navigate the diff with:
 
-   - <kbd>↓</kbd> Arrow Down to scroll down
-   - <kbd>↑</kbd> Arrow Up to scroll up
-   - <kbd>q</kbd> Q to exit out
+   - <kbd>↓</kbd> to scroll down
+   - <kbd>↑</kbd> to scroll up
+   - <kbd>Q</kbd> to exit out
 
 1. Promote the changes into the staging area.
 
